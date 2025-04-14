@@ -6,8 +6,8 @@
  <h2 align="center">Le Thanh Danh - Nova</h2>
  <h3 align="center">Personal Information</h3>
  <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>Welcome to my profile!</h3>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=novafrime&label=Profile%20views&color=0e75b6&style=flat" alt="novafrime" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=novafrime" alt="novafrime" /></a> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=inugamidev&label=Profile%20views&color=0e75b6&style=flat" alt="inugamidev" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inugamidev" alt="inugamidev" /></a> </p>
 <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/inugami/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -15,7 +15,7 @@
   <a href="https://www.facebook.com/nova.frosty/">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue"/>
   </a>
-  <a href="https://github.com/NovaFrime">
+  <a href="https://github.com/InugamiDev">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   <a href="mailto:ltdanh.gdsciu@gmail.com">
@@ -31,10 +31,10 @@
 - **Born:** 2005
 - **Student at:** Faculty of Information Technology, [International University](https://hcmiu.edu.vn/) - Vietnam National University, Ho Chi Minh City
 - **Major:** Information Technology
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=novafrime&show_icons=true&locale=en&layout=compact" alt="novafrime" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inugamidev&show_icons=true&locale=en&layout=compact" alt="inugamidev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=novafrime&show_icons=true&locale=en" alt="novafrime" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=novafrime&" alt="novafrime" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inugamidev&show_icons=true&locale=en" alt="inugamidev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inugamidev&" alt="inugamidev" /></p>
 
 ------
 
