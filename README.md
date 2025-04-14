@@ -2,8 +2,8 @@
 ---
 
 <p align="center">
- <img width="600px" src="https://i.pinimg.com/originals/e4/9f/bf/e49fbfaf3b5d538fe143c7371fe9f919.gif" align="center" alt="Le Thanh Danh - Nova" />
- <h2 align="center">Le Thanh Danh - Nova</h2>
+ <img width="600px" src="https://i.pinimg.com/originals/e4/9f/bf/e49fbfaf3b5d538fe143c7371fe9f919.gif" align="center" alt="Le Thanh Danh - Inu" />
+ <h2 align="center">Le Thanh Danh - Inu</h2>
  <h3 align="center">Personal Information</h3>
  <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>Welcome to my profile!</h3>
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=inugamidev&label=Profile%20views&color=0e75b6&style=flat" alt="inugamidev" /> </p>
@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/inugami/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.facebook.com/nova.frosty/">
+  <a href="https://www.facebook.com/inugami.dev/">
     <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue"/>
   </a>
   <a href="https://github.com/InugamiDev">
