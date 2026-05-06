@@ -1,182 +1,129 @@
+<!--
+intent: refresh this GitHub profile README with current portfolio and resume details
+status: done
+next: keep project links, roles, and resume URL synced with inugami.dev
+blockers: none
+confidence: high
+-->
+
+<h1 align="center">Le Thanh Danh - Inugami</h1>
+
+<p align="center">
+  <strong>Full-Stack Developer · Technical Lead · Jack of All Trades</strong>
+</p>
+
+<p align="center">
+  I design, build, lead, and ship real-world products across web, mobile, research, Web3, and startup environments.
+</p>
+
+<p align="center">
+  <a href="https://inugami.dev">Portfolio</a> ·
+  <a href="https://inugami.dev/resume.pdf">Resume</a> ·
+  <a href="https://github.com/InugamiDev">GitHub</a> ·
+  <a href="https://linkedin.com/in/inugami">LinkedIn</a> ·
+  <a href="mailto:contact@lethanhdanh.id.vn">Email</a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=inugamidev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+</p>
+
+---
+
+## About
+
+I am a Vietnamese full-stack developer based in Ho Chi Minh City. I work across frontend, backend, mobile, IoT, blockchain, research, and product delivery - wherever the problem needs me.
+
+My current stack centers on Next.js, FastAPI, PostgreSQL, Flutter, React Native, and Solana. The tools change by project, but the approach stays consistent: ship fast, build stable, and iterate with users.
+
+Currently, I am Country Lead / Ambassador for Agora and partnering with The Vorld on hackathon infrastructure, including Lotus Hack, Vietnam's largest hackathon in 2026.
+
+## What I Bring
+
+| Focus                  | How I Work                                                                              |
+| ---------------------- | --------------------------------------------------------------------------------------- |
+| End-to-end building    | Own the path from Figma mockups to deployed infrastructure.                             |
+| Technical leadership   | Led 5 teams to national hackathons and mentored 20+ developers through GDGoC HCMIU VNU. |
+| Research to production | Co-authored an AIoT smart locker research paper and built the supporting product stack. |
+| Revenue focus          | Generated $14k+ from SaaS, freelance, and contract work in 2025.                        |
+
+## Selected Work
+
+| Project                       | Context                                                                                              | Stack                                          | Link                                                                                                                                                                 |
+| ----------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Privacy1st.app                | Agentic phone-call screening for scam detection and early lead detection, built for Lotus Hack 2026. | Next.js, TypeScript, AI                        | [Visit](https://privacy1st.app)                                                                                                                                      |
+| UltraThink OSS                | Open-source AI agent coworking harness for practical AI-assisted development.                        | TypeScript, AI Agents                          | [Repo](https://github.com/InugamiDev/ultrathink-oss)                                                                                                                 |
+| Lotus Hack                    | Onboarding site and live event platform for Vietnam's largest hackathon in 2026.                     | Next.js, TypeScript, Tailwind                  | [Visit](https://www.lotushack.org/)                                                                                                                                  |
+| ConvoAI Club                  | Community and event submission platform for hackathon participants and AI enthusiasts.               | Next.js, TypeScript                            | [Visit](https://convoai.club)                                                                                                                                        |
+| ZeroLync                      | Smart wallet enabling cross-chain routing between Sui and Solana blockchains.                        | Next.js, Solana Web3.js, Sui SDK, TypeScript   | [Portfolio](https://inugami.dev/#projects)                                                                                                                           |
+| GDGoC HCMIU VNU Platform      | Collaboration, events, and member-management platform for the campus developer community.            | Next.js, Node.js, PostgreSQL, Prisma, Tailwind | [Portfolio](https://inugami.dev/#projects)                                                                                                                           |
+| EVN Tien Giang SCADA Lighting | Contract web app for monitoring electrical infrastructure with real-time reporting.                  | React, FastAPI, PostgreSQL, Docker             | [Portfolio](https://inugami.dev/#projects)                                                                                                                           |
+| AIoT Parcel Locker            | Smart locker mobile app and web dashboard for urban logistics research.                              | React, Expo, FastAPI, PostgreSQL, Firebase     | [Paper](https://www.researchgate.net/publication/385887922_enhancing_e-commerce_logistics_with_aiot_smart_lockers_an_ai-technology_implementation_for_urban_vietnam) |
+
+## Tech Stack
+
+| Area           | Tools                                             |
+| -------------- | ------------------------------------------------- |
+| Languages      | TypeScript, JavaScript, Python, Dart, C/C++, Java |
+| Frontend       | React, Next.js, Tailwind, Framer Motion, ShadCN   |
+| Mobile         | React Native, Flutter, Expo                       |
+| Backend        | Node.js, Express, FastAPI, Flask                  |
+| Database       | PostgreSQL, MongoDB, Prisma, Firebase             |
+| Infrastructure | Docker, Nginx, Railway, Vercel                    |
+| Tools          | Figma, Git, Postman                               |
+
+## Experience
+
+| Organization                    | Role                                | Timeline            |
+| ------------------------------- | ----------------------------------- | ------------------- |
+| Agora                           | Country Lead / Ambassador           | Mar 2026 - Present  |
+| The Vorld                       | Full Stack Engineer -> Partner      | Oct 2025 - Apr 2026 |
+| ZeroLync                        | Freelance Smart Contract Developer  | Oct 2025 - Nov 2025 |
+| EVN Tien Giang                  | Freelance Web Developer             | Oct 2024 - Feb 2025 |
+| GDGoC - GDG on Campus HCMIU VNU | Technical Leader / Head of Academic | May 2024 - Mar 2025 |
+| MIDIS Lab - HCMIU               | Full Stack Developer                | Mar 2024 - Feb 2025 |
+
+## Education
+
+| School                             | Program                                      | Timeline            |
+| ---------------------------------- | -------------------------------------------- | ------------------- |
+| International University - VNU HCM | BSc Information Technology                   | Aug 2023 - Aug 2027 |
+| University of the West of England  | BSc Information Technology, Twinning Program | Aug 2023 - Aug 2027 |
+
+## Achievements
+
+- SCADA CGP patent and copyright certification, 2026.
+- Built onboarding and live infrastructure for Lotus Hack, Vietnam's largest hackathon in 2026.
+- Second Prize, Solana Pragmatic Hackathon, 2025.
+- Second Prize, IT Got Talent, 2024.
+- Co-authored VNICT 2024 research paper on AIoT smart lockers for urban Vietnam logistics.
+- Led teams to Solana Consumer Hack, GDGoC Hackathon Vietnam, and Google Solution Challenge.
+- IELTS 6.5; fluent in Vietnamese and English.
+
+## Currently Exploring
+
+- AI and automation
+- Game development
+- Web3 and DeFi
+- System design
+- Chess
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=inugamidev&show_icons=true&theme=transparent&hide_border=true" alt="InugamiDev GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inugamidev&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inugamidev&theme=transparent&hide_border=true" alt="GitHub streak" />
+</p>
 
 ---
 
 <p align="center">
- <img width="600px" src="https://i.pinimg.com/originals/e4/9f/bf/e49fbfaf3b5d538fe143c7371fe9f919.gif" align="center" alt="Le Thanh Danh - Inu" />
- <h2 align="center">Le Thanh Danh - Inu</h2>
- <h3 align="center">Personal Information</h3>
- <h3 align="center"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"/>Welcome to my profile!</h3>
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=inugamidev&label=Profile%20views&color=0e75b6&style=flat" alt="inugamidev" /> </p>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=inugamidev" alt="inugamidev" /></a> </p>
-<div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/inugami/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.facebook.com/inugami.dev/">
-    <img src="https://img.shields.io/badge/Facebook-white?style=for-the-badge&logo=facebook&logoColor=blue"/>
-  </a>
-  <a href="https://github.com/InugamiDev">
-    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:ltdanh.gdsciu@gmail.com">
-    <img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white&color=ec4135"/>
-  </a>
-</div>
-
-------
-
-### 1. Basic Information
-
-- **Name:** Le Thanh Danh
-- **Born:** 2005
-- **Student at:** Faculty of Information Technology, [International University](https://hcmiu.edu.vn/) - Vietnam National University, Ho Chi Minh City
-- **Major:** Information Technology
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=inugamidev&show_icons=true&locale=en&layout=compact" alt="inugamidev" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=inugamidev&show_icons=true&locale=en" alt="inugamidev" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=inugamidev&" alt="inugamidev" /></p>
-
-------
-
-### 2. Languages & Tools
-
-<p align="left">
-  <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-  </a>
-  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://dart.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/>
-  </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-  </a>
-  <a href="https://expressjs.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-  </a>
-  <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://heroku.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-  </a>
-  <a href="https://nuxtjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="nuxtjs" width="40" height="40"/>
-  </a>
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://reactnative.dev/" target="_blank" rel="noreferrer">
-    <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/>
-  </a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-  </a>
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
-  </a>
-  <a href="https://unity.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/>
-  </a>
+  Open to collaboration, consulting, partnerships, and internship opportunities.
 </p>
-
-------
-
-### 3. Strengths
-
-- **Independent Thinking:** Ability to think, communicate, and work independently.
-- **Team Player:** Strong sense of solidarity and harmony with the team.
-- **Creativity:** Always looking for creative solutions and thinking outside the box.
-- **Integrity:** Honesty and high sense of responsibility.
-- **Passion for Technology:** Enthusiastic about working with computer systems, up-to-date technologies, and data.
-
-------
-
-### 4. Interests
-
-- **Research Areas:** Currently researching about AI, Game Development and Automation.
-- **Hobbies:** Coding, solving code challenges, playing games, playing chess, participating in code contest and reading novels.
-
-------
-
-### 5. Work Experience
-
-| Company | Role | Skills | Year |
-|---------|------|--------|------|
-| Google Developer Student Clubs - HCMIU | Full Stack Member | Figma, React, NextJS, JavaScript, NodeJS, MongoDB | 2023-2024 |
-| Google Developer Student Clubs - HCMIU | Full Stack Academic Leader | Figma, React, React Native, NextJS, Dart, Flutter, JavaScript, NodeJS, MongoDB | Jan 2024 - Mar 2025 |
-| MIDIS Lab - Parcel Locker Project | Full Stack Developer | Node JS, React, React Native, Expo, FastAPI Express, MongoDB | Mar 2024 - Feb 2025 |
-| EVN Tien Giang (Contract) - Light Management System | Full Stack Developer | Node JS, React, Express | Oct 2024 - Feb 2025 |
-
-------
-### 5.1 Products
-
-- **Studyon.app:** A productivity application developed in collaboration with [hoangvu12](https://github.com/hoangvu12). The app focuses on enhancing study process for students.
-- **Parcel Locker:** A parcel locker system developed by MIDIS Lab Located in HCMIU.
-
-------
-
-### 6. Aspirations
-
-#### I aspire to collaborate with programmers from diverse backgrounds and skill sets. I aim to enhance my teamwork abilities, data problem-solving skills, project planning, and problem-solving capabilities.
-
-------
