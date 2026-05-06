@@ -108,18 +108,19 @@ Currently, I am Country Lead / Ambassador for Agora and partnering with The Vorl
 - System design
 - Chess
 
-## GitHub Stats
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=inugamidev&show_icons=true&theme=transparent&hide_border=true" alt="InugamiDev GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InugamiDev&theme=transparent" alt="InugamiDev GitHub activity summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=inugamidev&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InugamiDev&theme=transparent" alt="InugamiDev GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InugamiDev&theme=transparent" alt="Top repository languages" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=inugamidev&theme=transparent&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com?user=InugamiDev&theme=transparent&hide_border=true" alt="InugamiDev GitHub streak" />
 </p>
 
 ---
