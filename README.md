@@ -21,7 +21,8 @@ confidence: high
   <a href="https://inugami.dev/resume.pdf">Resume</a> ·
   <a href="https://github.com/InugamiDev">GitHub</a> ·
   <a href="https://linkedin.com/in/inugami">LinkedIn</a> ·
-  <a href="mailto:contact@lethanhdanh.id.vn">Email</a>
+  <a href="mailto:ltdanh@100b.studio">ltdanh@100b.studio</a> ·
+  <a href="mailto:ceo@100b.studio">ceo@100b.studio</a>
 </p>
 
 <p align="center">
