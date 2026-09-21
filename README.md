@@ -1,131 +1,113 @@
-<!--
-intent: refresh this GitHub profile README with current portfolio and resume details
-status: done
-next: keep project links, roles, and resume URL synced with inugami.dev
-blockers: none
-confidence: high
--->
-
-<h1 align="center">Le Thanh Danh - Inugami</h1>
+<h1 align="center">Lê Thành Danh — Inugami</h1>
 
 <p align="center">
-  <strong>Full-Stack Developer · Technical Lead · Jack of All Trades</strong>
+  <strong>Voice Lead Engineer @ TwoHearts Technologies · CTO @ Admission Sorted</strong>
 </p>
 
 <p align="center">
-  I design, build, lead, and ship real-world products across web, mobile, research, Web3, and startup environments.
+  Full-stack developer in Ho Chi Minh City. Frontend, backend, mobile, IoT, Web3, research —<br />
+  I go wherever the problem is and build whatever it takes to solve it.
 </p>
 
 <p align="center">
   <a href="https://inugami.dev">Portfolio</a> ·
-  <a href="https://inugami.dev/resume.pdf">Resume</a> ·
-  <a href="https://github.com/InugamiDev">GitHub</a> ·
+  <a href="https://inugami.dev/writing">Writing</a> ·
   <a href="https://linkedin.com/in/inugami">LinkedIn</a> ·
-  <a href="mailto:ltdanh@100b.studio">ltdanh@100b.studio</a> ·
-  <a href="mailto:ceo@100b.studio">ceo@100b.studio</a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=inugamidev&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="mailto:dle@admissionsorted.com">dle@admissionsorted.com</a>
 </p>
 
 ---
 
 ## About
 
-I am a Vietnamese full-stack developer based in Ho Chi Minh City. I work across frontend, backend, mobile, IoT, blockchain, research, and product delivery - wherever the problem needs me.
+I'm a Vietnamese developer who doesn't fit into one box. My stack centres on Next.js, FastAPI,
+PostgreSQL, Flutter, React Native and Solana, but the tools change with the job. What stays
+consistent is the approach: ship fast, build stable, iterate with users.
 
-My current stack centers on Next.js, FastAPI, PostgreSQL, Flutter, React Native, and Solana. The tools change by project, but the approach stays consistent: ship fast, build stable, and iterate with users.
+I'm currently Voice Lead Engineer at [TwoHearts Technologies](https://twohearts.vn) and CTO at
+Admission Sorted, both full-time. Before that I was Country Lead for [Agora](https://agora.io) in
+Vietnam, and a full-stack engineer at [The Vorld](https://thevorld.com), where I built Solana web3
+infrastructure and the game integrations that put it on Twitch and YouTube, across backend and
+frontend both.
 
-Currently, I am Country Lead / Ambassador for Agora and partnering with The Vorld on hackathon infrastructure, including Lotus Hack, Vietnam's largest hackathon in 2026.
+Separately, a friend asked me to take on [Lotus Hack](https://www.lotushack.org/), Vietnam's largest
+hackathon of 2026. I designed and shipped the onboarding and live event platform end to end, and it
+carried the whole event under real load.
 
-## What I Bring
+I'm studying for a BSc in Information Technology at International University — VNU HCM, on the
+twinning programme with the University of the West of England.
 
-| Focus                  | How I Work                                                                              |
-| ---------------------- | --------------------------------------------------------------------------------------- |
-| End-to-end building    | Own the path from Figma mockups to deployed infrastructure.                             |
-| Technical leadership   | Led 5 teams to national hackathons and mentored 20+ developers through GDGoC HCMIU VNU. |
-| Research to production | Co-authored an AIoT smart locker research paper and built the supporting product stack. |
-| Revenue focus          | Generated $14k+ from SaaS, freelance, and contract work in 2025.                        |
+## What I bring
 
-## Selected Work
+| | |
+| --- | --- |
+| **End-to-end builder** | From Figma mockups to deployed infrastructure — I own the full pipeline. |
+| **Technical leadership** | Led 5 teams to national hackathons and mentored 20+ developers at GDGoC. |
+| **Research-driven** | Co-authored a published AIoT research paper — I bridge theory and production. |
+| **Trusted to lead** | CTO at Admission Sorted, Voice Lead Engineer at TwoHearts Technologies. |
 
-| Project                       | Context                                                                                              | Stack                                          | Link                                                                                                                                                                 |
-| ----------------------------- | ---------------------------------------------------------------------------------------------------- | ---------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Privacy1st.app                | Agentic phone-call screening for scam detection and early lead detection, built for Lotus Hack 2026. | Next.js, TypeScript, AI                        | [Visit](https://privacy1st.app)                                                                                                                                      |
-| UltraThink OSS                | Open-source AI agent coworking harness for practical AI-assisted development.                        | TypeScript, AI Agents                          | [Repo](https://github.com/InugamiDev/ultrathink-oss)                                                                                                                 |
-| Lotus Hack                    | Onboarding site and live event platform for Vietnam's largest hackathon in 2026.                     | Next.js, TypeScript, Tailwind                  | [Visit](https://www.lotushack.org/)                                                                                                                                  |
-| ConvoAI Club                  | Community and event submission platform for hackathon participants and AI enthusiasts.               | Next.js, TypeScript                            | [Visit](https://convoai.club)                                                                                                                                        |
-| ZeroLync                      | Smart wallet enabling cross-chain routing between Sui and Solana blockchains.                        | Next.js, Solana Web3.js, Sui SDK, TypeScript   | [Portfolio](https://inugami.dev/#projects)                                                                                                                           |
-| GDGoC HCMIU VNU Platform      | Collaboration, events, and member-management platform for the campus developer community.            | Next.js, Node.js, PostgreSQL, Prisma, Tailwind | [Portfolio](https://inugami.dev/#projects)                                                                                                                           |
-| EVN Tien Giang SCADA Lighting | Contract web app for monitoring electrical infrastructure with real-time reporting.                  | React, FastAPI, PostgreSQL, Docker             | [Portfolio](https://inugami.dev/#projects)                                                                                                                           |
-| AIoT Parcel Locker            | Smart locker mobile app and web dashboard for urban logistics research.                              | React, Expo, FastAPI, PostgreSQL, Firebase     | [Paper](https://www.researchgate.net/publication/385887922_enhancing_e-commerce_logistics_with_aiot_smart_lockers_an_ai-technology_implementation_for_urban_vietnam) |
+## Selected work
 
-## Tech Stack
-
-| Area           | Tools                                             |
-| -------------- | ------------------------------------------------- |
-| Languages      | TypeScript, JavaScript, Python, Dart, C/C++, Java |
-| Frontend       | React, Next.js, Tailwind, Framer Motion, ShadCN   |
-| Mobile         | React Native, Flutter, Expo                       |
-| Backend        | Node.js, Express, FastAPI, Flask                  |
-| Database       | PostgreSQL, MongoDB, Prisma, Firebase             |
-| Infrastructure | Docker, Nginx, Railway, Vercel                    |
-| Tools          | Figma, Git, Postman                               |
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [Privacy1st.app](https://privacy1st.app) | Agentic phone call screening for scam detection and early lead detection — an AI assistant that helps people stay safe. | Next.js · TypeScript · AI |
+| [UltraThink OSS](https://github.com/InugamiDev/ultrathink-oss) | Open-source AI agent coworking harness — spreading the love of proper vibe coding. | TypeScript · AI agents |
+| [Lotus Hack](https://www.lotushack.org/) | Onboarding site and live event platform behind Vietnam's biggest hackathon, end to end and under real event load. | Next.js · TypeScript · Tailwind |
+| ConvoAI Club | Community and event submission platform for hackathon participants and AI enthusiasts. | Next.js · TypeScript |
+| ZeroLync | Smart wallet routing across the Sui and Solana chains. | Next.js · Solana Web3.js · Sui SDK |
+| Underdog | Supporting indie growth on the Solana ecosystem, built for the Underdog hackathon. | Next.js · Solana |
+| GDGoC HCMIU VNU Platform | Collaboration, events and member management for the campus developer community. | Next.js · Node.js · PostgreSQL · Prisma |
+| EVN Tiền Giang — SCADA Lighting | Monitoring electrical infrastructure with real-time reporting. Patented and copyright certified. | React · FastAPI · PostgreSQL · Docker |
+| [AIoT Parcel Locker](https://www.researchgate.net/publication/385887922_enhancing_e-commerce_logistics_with_aiot_smart_lockers_an_ai-technology_implementation_for_urban_vietnam) | Smart locker app and dashboard for urban logistics, with the research paper behind it. | React · Expo · FastAPI · Firebase |
+| Studyon.app | Productivity app for students, built with [hoangvu12](https://github.com/hoangvu12). | React · Node.js |
 
 ## Experience
 
-| Organization                    | Role                                | Timeline            |
-| ------------------------------- | ----------------------------------- | ------------------- |
-| Agora                           | Country Lead / Ambassador           | Mar 2026 - Present  |
-| The Vorld                       | Full Stack Engineer -> Partner      | Oct 2025 - Apr 2026 |
-| ZeroLync                        | Freelance Smart Contract Developer  | Oct 2025 - Nov 2025 |
-| EVN Tien Giang                  | Freelance Web Developer             | Oct 2024 - Feb 2025 |
-| GDGoC - GDG on Campus HCMIU VNU | Technical Leader / Head of Academic | May 2024 - Mar 2025 |
-| MIDIS Lab - HCMIU               | Full Stack Developer                | Mar 2024 - Feb 2025 |
+| Organisation | Role | When |
+| --- | --- | --- |
+| TwoHearts Technologies | Voice Lead Engineer — Full-Stack Developer | Present · full-time |
+| Admission Sorted | Chief Technology Officer — Full-Stack Developer | Present · full-time |
+| Agora | Country Lead, previously Ambassador | Mar 2026 — Aug 2026 |
+| The Vorld | Full-Stack Engineer — Solana web3 infra, Twitch/YouTube game integrations | Oct 2025 — Apr 2026 |
+| ZeroLync | Freelance Smart Contract Developer | Oct 2025 — Nov 2025 |
+| EVN Tiền Giang | Freelance Web Developer | Oct 2024 — Feb 2025 |
+| GDGoC — GDG on Campus HCMIU VNU | Head of Academic Department — Technical Leader | May 2024 — Mar 2025 |
+| MIDIS Lab — HCMIU | Full-Stack Developer | Mar 2024 — Feb 2025 |
 
-## Education
+## Record
 
-| School                             | Program                                      | Timeline            |
-| ---------------------------------- | -------------------------------------------- | ------------------- |
-| International University - VNU HCM | BSc Information Technology                   | Aug 2023 - Aug 2027 |
-| University of the West of England  | BSc Information Technology, Twinning Program | Aug 2023 - Aug 2027 |
+- **SCADA CGP** — patent and copyright certification, 2026
+- **Lotus Hack** — built the onboarding and live platform for Vietnam's largest hackathon, 2026
+- **Solana Pragmatic Hackathon** — 2nd prize, 2025
+- **IT Got Talent** — 2nd prize, 2024
+- **VNICT 2024** — co-authored an AIoT research paper on smart lockers for urban Vietnam logistics
+- Led teams to Solana Consumer Hack, GDGoC Hackathon Vietnam, and the Google Solution Challenge
 
-## Achievements
+## Stack
 
-- SCADA CGP patent and copyright certification, 2026.
-- Built onboarding and live infrastructure for Lotus Hack, Vietnam's largest hackathon in 2026.
-- Second Prize, Solana Pragmatic Hackathon, 2025.
-- Second Prize, IT Got Talent, 2024.
-- Co-authored VNICT 2024 research paper on AIoT smart lockers for urban Vietnam logistics.
-- Led teams to Solana Consumer Hack, GDGoC Hackathon Vietnam, and Google Solution Challenge.
-- IELTS 6.5; fluent in Vietnamese and English.
+| | |
+| --- | --- |
+| **Languages** | TypeScript · JavaScript · Python · Dart · C/C++ · Java |
+| **Frontend** | React · Next.js · Tailwind · Framer Motion · shadcn/ui |
+| **Mobile** | React Native · Flutter · Expo |
+| **Backend** | Node.js · Express · FastAPI · Flask |
+| **Data** | PostgreSQL · MongoDB · Prisma · Firebase |
+| **Infrastructure** | Docker · Nginx · Railway · Vercel |
 
-## Currently Exploring
-
-- AI and automation
-- Game development
-- Web3 and DeFi
-- System design
-- Chess
-
-## GitHub Activity
+Currently spending my spare cycles on AI and automation, game development, Web3, system design —
+and chess.
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InugamiDev&theme=transparent" alt="InugamiDev GitHub activity summary" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=InugamiDev&theme=transparent" alt="GitHub activity summary" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InugamiDev&theme=transparent" alt="InugamiDev GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=InugamiDev&theme=transparent" alt="GitHub stats" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=InugamiDev&theme=transparent" alt="Top repository languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=InugamiDev&theme=transparent&hide_border=true" alt="InugamiDev GitHub streak" />
 </p>
 
 ---
 
 <p align="center">
-  Open to collaboration, consulting, partnerships, and internship opportunities.
+  Building something that needs a full-stack lead? <a href="mailto:dle@admissionsorted.com">Contact me</a>.
 </p>
