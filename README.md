@@ -1,7 +1,7 @@
 <h1 align="center">Lê Thành Danh — Inugami</h1>
 
 <p align="center">
-  <strong>Voice Lead Engineer @ TwoHearts Technologies · CTO @ Admission Sorted</strong>
+  <strong>CTO @ Admission Sorted · Founder @ 100B Studio</strong>
 </p>
 
 <p align="center">
@@ -24,9 +24,9 @@ I'm a Vietnamese developer who doesn't fit into one box. My stack centres on Nex
 PostgreSQL, Flutter, React Native and Solana, but the tools change with the job. What stays
 consistent is the approach: ship fast, build stable, iterate with users.
 
-I'm currently Voice Lead Engineer at [TwoHearts Technologies](https://twohearts.vn) and CTO at
-Admission Sorted, both full-time. Before that I was Country Lead for [Agora](https://agora.io) in
-Vietnam, and a full-stack engineer at [The Vorld](https://thevorld.com), where I built Solana web3
+I'm currently CTO at Admission Sorted and founder of 100B Studio. Before that I led voice
+engineering at [TwoHearts Technology](https://twohearts.vn), was Country Lead for
+[Agora](https://agora.io) in Vietnam, and a full-stack engineer at [The Vorld](https://thevorld.com), where I built Solana web3
 infrastructure and the game integrations that put it on Twitch and YouTube, across backend and
 frontend both.
 
@@ -44,7 +44,7 @@ twinning programme with the University of the West of England.
 | **End-to-end builder** | From Figma mockups to deployed infrastructure — I own the full pipeline. |
 | **Technical leadership** | Led 5 teams to national hackathons and mentored 20+ developers at GDGoC. |
 | **Research-driven** | Co-authored a published AIoT research paper — I bridge theory and production. |
-| **Trusted to lead** | CTO at Admission Sorted, Voice Lead Engineer at TwoHearts Technologies. |
+| **Trusted to lead** | CTO at Admission Sorted and founder of 100B Studio, after leading voice engineering at TwoHearts Technology. |
 
 ## Selected work
 
@@ -65,8 +65,9 @@ twinning programme with the University of the West of England.
 
 | Organisation | Role | When |
 | --- | --- | --- |
-| TwoHearts Technologies | Voice Lead Engineer — Full-Stack Developer | Present · full-time |
-| Admission Sorted | Chief Technology Officer — Full-Stack Developer | Present · full-time |
+| Admission Sorted | Chief Technology Officer — Full-Stack Developer | Feb 2026 — Present · full-time |
+| 100B Studio | Founder | 2026 — Present |
+| TwoHearts Technology | Voice Lead Engineer — Full-Stack Developer | Apr 2026 — Oct 2026 · full-time |
 | Agora | Country Lead, previously Ambassador | Mar 2026 — Aug 2026 |
 | The Vorld | Full-Stack Engineer — Solana web3 infra, Twitch/YouTube game integrations | Oct 2025 — Apr 2026 |
 | ZeroLync | Freelance Smart Contract Developer | Oct 2025 — Nov 2025 |
